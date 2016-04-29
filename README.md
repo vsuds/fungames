@@ -1,2 +1,0 @@
-# fungames
-Getting hands dirty
